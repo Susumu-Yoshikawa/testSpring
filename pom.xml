@@ -110,7 +110,7 @@
 			<version>1.2</version>
 		</dependency>
 		
-		 <!-- MyBatis -->
+		<!-- MyBatis -->
 		<dependency>
 			<groupId>org.mybatis</groupId>
 			<artifactId>mybatis</artifactId>
